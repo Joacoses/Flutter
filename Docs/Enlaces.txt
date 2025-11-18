@@ -1,0 +1,11 @@
+Recursos a instalar:
+https://gist.github.com/Klerith/2917b2a21ea9c4bfa5d1070c89a89ec7
+
+dart-cheat-sheet
+https://github.com/Klerith/mas-talento/blob/main/dart/dart-cheat-sheet.pdf
+
+flutter-cheat-sheet
+https://github.com/Klerith/mas-talento/blob/main/flutter/flutter-cheat-sheet.pdf
+
+dart en web
+https://dartpad.dev
